@@ -1,0 +1,23 @@
+.exe{
+color:blue;
+}p{
+	color:white;
+}
+img{width:250px;
+height:198px}
+.wow{
+	display:flex;
+
+}
+.content{
+	width:1000px;
+	margin:auto;
+	background:#8dc782;
+	padding:130px;
+}
+body{
+	background:#000;
+}
+h1{
+	color:red
+}
